@@ -29,9 +29,11 @@ Sadece IP içeren bir .txt dosyası:
 
 ```cd ftpchecker```
 
+```Nano ftp.txt``` buraya ip leri girin
+
 ```python3 tool1.py```
 
-```python3 ftp_anon_checker.py```
+
 Sonra:
 📎 Sana Sadece IP içeren .txt dosya yolunu girin: diye soracak.
 Örnek:
